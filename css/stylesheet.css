@@ -290,8 +290,9 @@
 
         #section2 h3{
             font-size: 40px;
-    margin-top: 15px;
-    text-align: center;
-    color: white;
-    position: absolute;
+	    margin-top: 150px;
+	    text-align: center;
+	    color: white;
+	    position: absolute;
+	    margin-left: 300px;
         }
