@@ -289,8 +289,9 @@
 		}
 
         #section2 h3{
-            font-size: 50px;
-            margin-top: 150px;
-            text-align: center;
-            color: white
+            font-size: 40px;
+	    margin-top: 15px;
+	    text-align: center;
+	    color: white;
+	    position: absolute;
         }
